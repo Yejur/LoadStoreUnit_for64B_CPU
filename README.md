@@ -1,0 +1,1 @@
+8-lane vector load/store unit in SystemVerilog. Handles RVV-style unit-stride, strided and indexed loads and stores over an OBI bus to L1, with per-lane byte masks, vstart restart, back-pressure, and misalignment and bus-error exceptions. Includes a self-checking testbench.
